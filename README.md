@@ -70,7 +70,8 @@ Which days and months experience the highest order volume?
 Which menu items perform poorly and may require improvement?
 
 
-• Goal of the Dashboard
+
+# • Goal of the Dashboard
 
 To deliver an interactive analytical solution that:
 
