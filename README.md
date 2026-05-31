@@ -23,3 +23,29 @@ The dashboard was built using the following tools and technologies:
 • 📝 Data Modeling – Built relationships and optimized the data structure for efficient reporting and filtering.
 
 • 📁 File Formats – .csv as the primary dataset, .pbix for dashboard development, and .png for dashboard previews.
+
+### 4. Data Source
+
+Source: Pizza Sales Transaction Dataset
+
+The dataset contains detailed pizza order transactions, including:
+
+Order IDs
+
+Order Date
+
+Pizza Names
+
+Pizza Categories
+
+Pizza Sizes
+
+Quantity Sold
+
+Unit Price
+
+Total Price
+
+Sales Revenue
+
+The dataset captures customer purchasing behavior and product performance across different periods, enabling detailed sales and profitability analysis.
