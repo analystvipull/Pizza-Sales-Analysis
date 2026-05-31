@@ -49,3 +49,39 @@ Total Price
 Sales Revenue
 
 The dataset captures customer purchasing behavior and product performance across different periods, enabling detailed sales and profitability analysis.
+
+### 5. Features / Highlights
+• Business Problem
+
+Restaurant businesses handle thousands of sales transactions every month. Without a centralized analytical solution, it becomes difficult to understand customer preferences, monitor sales performance, identify top-performing products, and optimize inventory planning.
+
+Key business questions include:
+
+What is the total revenue generated?
+
+Which pizzas generate the highest sales?
+
+Which pizza categories contribute the most revenue?
+
+What pizza sizes are preferred by customers?
+
+Which days and months experience the highest order volume?
+
+Which menu items perform poorly and may require improvement?
+
+
+• Goal of the Dashboard
+
+To deliver an interactive analytical solution that:
+
+Monitors restaurant sales performance in real time.
+
+Tracks revenue, orders, and product demand.
+
+Identifies top-performing and underperforming menu items.
+
+Analyzes customer purchasing trends by category and size.
+
+Supports inventory management and pricing decisions.
+
+Enables data-driven business growth strategies.
