@@ -135,3 +135,6 @@ XX-Large
 • Revenue by Pizza Category (Bar Chart): Ranks pizza categories by total revenue generated.
 
 ##### Key Insight: Classic pizzas generate the highest revenue, followed closely by Supreme pizzas.
+
+
+
