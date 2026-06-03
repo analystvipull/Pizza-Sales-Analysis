@@ -137,4 +137,9 @@ XX-Large
 ##### Key Insight: Classic pizzas generate the highest revenue, followed closely by Supreme pizzas.
 
 
+### 6.	Screenshots / Demos
+Show what the dashboard looks like.
+Example: ![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
+
+
 
