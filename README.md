@@ -109,15 +109,11 @@ An interactive slicer allows users to filter all dashboard visuals by pizza cate
 
 ##### Key Insight: Friday records the highest number of orders, indicating strong weekend demand.
 
-• Monthly Trend for Total Orders (Line Chart)
-
-Tracks monthly ordering patterns throughout the year.
+• Monthly Trend for Total Orders (Line Chart): Tracks monthly ordering patterns throughout the year.
 
 ##### Key Insight: July records the highest order volume, while September and October experience comparatively lower demand.
 
-• Revenue by Pizza Category (Donut Chart)
-
-Shows revenue contribution across pizza categories:
+• Revenue by Pizza Category (Donut Chart): Shows revenue contribution across pizza categories:
 
 Classic :
 Supreme :
@@ -126,9 +122,7 @@ Veggie
 
 This helps determine which product categories generate the highest business value.
 
-• Revenue by Pizza Size (Donut Chart)
-
-Analyzes customer purchasing preferences across pizza sizes:
+• Revenue by Pizza Size (Donut Chart): Analyzes customer purchasing preferences across pizza sizes:
 
 Large :
 Medium :
@@ -138,8 +132,6 @@ XX-Large
 
 ##### Key Insight: Large-sized pizzas contribute nearly 46% of total revenue, making them the most preferred size.
 
-• Revenue by Pizza Category (Bar Chart)
-
-Ranks pizza categories by total revenue generated.
+• Revenue by Pizza Category (Bar Chart): Ranks pizza categories by total revenue generated.
 
 ##### Key Insight: Classic pizzas generate the highest revenue, followed closely by Supreme pizzas.
