@@ -103,13 +103,9 @@ Pizza Category Filter Panel
 
 An interactive slicer allows users to filter all dashboard visuals by pizza category, enabling focused analysis of specific product segments.
 
-• Date Range Filter
+• Date Range Filter : Users can dynamically analyze sales performance across custom time periods by selecting start and end dates.
 
-Users can dynamically analyze sales performance across custom time periods by selecting start and end dates.
-
-• Daily Trend for Total Orders (Column Chart)
-
-Displays order volume across weekdays, helping identify peak business days.
+• Daily Trend for Total Orders (Column Chart) : Displays order volume across weekdays, helping identify peak business days.
 
 ##### Key Insight: Friday records the highest number of orders, indicating strong weekend demand.
 
