@@ -30,22 +30,14 @@ Source: Pizza Sales Transaction Dataset
 
 The dataset contains detailed pizza order transactions, including:
 
-Order IDs
-
-Order Date
-
-Pizza Names
-
-Pizza Categories
-
-Pizza Sizes
-
-Quantity Sold
-
-Unit Price
-
-Total Price
-
+Order IDs : 
+Order Date :
+Pizza Names :
+Pizza Categories :
+Pizza Sizes :
+Quantity Sold :
+Unit Price :
+Total Price :
 Sales Revenue
 
 The dataset captures customer purchasing behavior and product performance across different periods, enabling detailed sales and profitability analysis.
@@ -206,7 +198,7 @@ Data-Driven Decision Making: The dashboard provides a centralized view of produc
 
 ### 	Screenshots / Demos
 Show what the dashboard looks like.
-Example: ![Dashboard Preview](https://github.com/analystvipull/Pizza-Sales-Analysis/blob/main/Pizza%20Sales%20Overview%20Dashboard.png)
+Example: ![Dashboard Preview](https://github.com/analystvipull/Pizza-Sales-Analysis/blob/main/Best%20%26%20Worst%20Seller%20Analysis%20Dashboard.png)
 
 
 
