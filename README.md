@@ -137,9 +137,71 @@ XX-Large
 ##### Key Insight: Classic pizzas generate the highest revenue, followed closely by Supreme pizzas.
 
 
-### 6.	Screenshots / Demos
+### 	Screenshots / Demos
 Show what the dashboard looks like.
 Example: ![Dashboard Preview](https://github.com/analystvipull/Pizza-Sales-Analysis/blob/main/Pizza%20Sales%20Overview%20Dashboard.png)
+
+
+#### • Walkthrough of Key Visuals (Dashboard 2: Pizza Performance & Product Insights Dashboard)
+Key KPIs (Top Row)
+
+The dashboard presents key business metrics that provide a quick overview of overall sales performance:
+
+Total Revenue: $817.86K :
+Total Orders: 21,350 :
+Average Order Value: $38.31 :
+Total Pizzas Sold: 49,574 :
+Average Pizzas per Order: 2.32 :
+Pizza Category Filter Panel
+
+An interactive slicer allows users to filter all visuals by pizza category, enabling focused analysis of product performance within specific categories such as Classic, Supreme, Chicken, or Veggie.
+
+• Date Range Filter: A dynamic date slicer enables users to analyze product performance across custom time periods and identify seasonal trends.
+
+• Top 5 Pizzas by Revenue (Bar Chart): Ranks the highest revenue-generating pizzas, helping management identify the most profitable menu items.
+
+• Top Revenue Contributors:
+
+Thai Chicken Pizza :
+Barbecue Chicken Pizza :
+California Chicken Pizza :
+Classic Deluxe Pizza :
+Spicy Italian Pizza :
+
+• Top 5 Pizzas by Quantity Sold (Bar Chart): Displays pizzas with the highest sales volume.
+
+This visual highlights products with the strongest customer demand and consumption frequency.
+
+• Top 5 Pizzas by Total Orders (Bar Chart): Shows the pizzas that appear most frequently in customer orders.
+
+Helps identify the most popular menu items based on order frequency rather than revenue alone.
+
+• Bottom 5 Pizzas by Revenue (Bar Chart): Highlights the lowest revenue-generating pizzas.
+
+This analysis helps identify products that contribute minimally to overall sales and profitability.
+
+• Bottom 5 Pizzas by Quantity Sold (Bar Chart): Displays pizzas with the lowest number of units sold.
+
+Useful for evaluating whether specific menu items require promotional support or menu redesign.
+
+• Bottom 5 Pizzas by Total Orders (Bar Chart): Shows pizzas that receive the fewest customer orders.
+
+This insight helps management identify products with weak market demand and optimize the product portfolio.
+
+#### • Business Impact & Insights
+Product Portfolio Optimization: Management can identify top-performing and underperforming pizzas, enabling data-driven decisions regarding menu design, pricing, and product retention.
+
+Revenue Growth Opportunities: Revenue-based ranking helps focus marketing and promotional efforts on high-performing pizzas that drive the majority of sales.
+
+Demand Forecasting: Analysis of top-selling products allows better prediction of ingredient requirements and inventory planning.
+
+Inventory Management: Understanding which pizzas sell the most and least helps reduce food waste and improve stock management efficiency.
+
+Customer Preference Analysis: Order frequency and quantity-based insights reveal customer tastes and preferences, helping businesses tailor future offerings.
+
+Strategic Menu Engineering: Underperforming pizzas can be redesigned, repriced, promoted, or replaced, while best-selling pizzas can be leveraged as flagship products to maximize profitability.
+
+Data-Driven Decision Making: The dashboard provides a centralized view of product performance, enabling restaurant managers to make informed decisions that improve operational efficiency, customer satisfaction, and overall business growth.
 
 
 
