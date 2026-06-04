@@ -204,4 +204,10 @@ Strategic Menu Engineering: Underperforming pizzas can be redesigned, repriced, 
 Data-Driven Decision Making: The dashboard provides a centralized view of product performance, enabling restaurant managers to make informed decisions that improve operational efficiency, customer satisfaction, and overall business growth.
 
 
+### 	Screenshots / Demos
+Show what the dashboard looks like.
+Example: ![Dashboard Preview](https://github.com/analystvipull/Pizza-Sales-Analysis/blob/main/Pizza%20Sales%20Overview%20Dashboard.png)
+
+
+
 
